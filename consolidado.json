@@ -73,7 +73,7 @@
  },
  {
   "nombre": "Cirugía reconstructiva como consecuencia de una mastectomía por patología mamaria",
-  "categoria": "Cir. Reconstructivas",
+  "categoria": "Cirugías Reconstructivas",
   "norma": "Ley N° 26.872",
   "norma_1": "-",
   "norma_2": "-",
@@ -82,7 +82,7 @@
  },
  {
   "nombre": "Prótesis necesarias como consecuencia de una mastectomía por patología mamaria",
-  "categoria": "Cir. Reconstructivas",
+  "categoria": "Cirugías Reconstructivas",
   "norma": "Ley N° 26.872",
   "norma_1": "-",
   "norma_2": "-",
@@ -234,51 +234,6 @@
   "recomendaciones": "Esquema de una dosis a partir de los 15 años. Sólo en zona de riesgo"
  },
  {
-  "nombre": "No especifica prestaciones, sólo establecen un marco de buenas prácticas. El Art. 1 de la Ley establece la obligatoriedad de la inclusión de las prestaciones al PMO, pero no especifica. El Decreto Reglamentario 2035 \/ 2015 tampoco especifica.",
-  "categoria": "Derechos de los padres y personas recién nacidas",
-  "norma": "Ley N° 25.929",
-  "norma_1": "Decreto 2035\/2015",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Derechos del paciente, historia clínica y consentimiento",
-  "norma": "Ley N° 26529",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Día Nacional de la Salud Mental",
-  "norma": "Ley N° 26959",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Día Nacional del Enfermo Celíaco",
-  "norma": "Ley N° 26947",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Día Nacional por una Argentina sin Chagas",
-  "norma": "Ley N° 26945",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
   "nombre": "Todos aquellos Medicamentos y reactivos de diagnósticos para autocontrol autorizados",
   "categoria": "Diabetes",
   "norma": "Ley N° 26.914",
@@ -293,7 +248,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Insulina lispro U200 solamente si el precio por unidad de insulina lispro de la concentración U200 no supera el precio por unidad de insulina lispro de concentración U100"
  },
  {
@@ -302,7 +257,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -311,7 +266,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -320,7 +275,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -329,7 +284,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Insulina glargina U300 solamente en personas con DM1 si el precio por unidad de insulina glargina de la concentración U300 no supera el precio por unidad de insulina glargina de concentración U100."
  },
  {
@@ -338,7 +293,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Insulina degludec: personas con DM1 que presenten hipoglucemia nocturna con insulina glargina y\/o detemir, habiéndose evaluado previamente: técnica de inyección, sitios de inyección, habilidades de autocontrol, conocimiento y habilidades de autogestión, estilo de vida, dificultades psicológicas y psicosociales, posibles causas orgánicas como la gastroparesia"
  },
  {
@@ -347,7 +302,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "En personas con diagnóstico de DM1. Se autorizará la cobertura del glucagón más de una vez al año si la persona con DM1 confirma su utilización a través de resumen de historia clínica del profesional tratante."
  },
  {
@@ -356,7 +311,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Según prescripción médica."
  },
  {
@@ -365,7 +320,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "En personas adultas con DM2 como tratamiento complementario de la metformina cuando la persona \npresente todos estos criterios simultáneamente: \nNo se logra la meta de HbA1c con dosis máxima tolerada de metformina (con 3 a 6 meses de \ntratamiento documentado), \nNo presente contraindicaciones para la utilización de IDPP-4 \nLos valores de HbA1c no superen en más de un 1% el valor meta \nPresentan riesgo aumentado de hipoglucemia. \n1. En personas adultas con DM2 como tratamiento alternativo a la metformina cuando la persona \npresente todos estos criterios simultáneamente: \nContraindicaciones para el uso de la metformina \nNo tenga contraindicaciones para la utilización de IDPP-4 \nSus valores de HbA1c no superen en más de un 1% el valor meta. \nPresenten riesgo aumentado de hipoglucemia"
  },
  {
@@ -374,7 +329,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Según prescripción médica"
  },
  {
@@ -383,7 +338,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Según prescripción médica"
  },
  {
@@ -392,7 +347,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Según prescripción médica"
  },
  {
@@ -401,7 +356,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "300 anuales o 730 anuales en situaciones especiales"
  },
  {
@@ -410,7 +365,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "300 anuales o 730 anuales en situaciones especiales"
  },
  {
@@ -419,7 +374,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "100 anuales o 200 anuales en situaciones especiales"
  },
  {
@@ -428,7 +383,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "400 anuales o hasta 1800 anuales en situaciones especiales"
  },
  {
@@ -437,7 +392,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "50 anuales"
  },
  {
@@ -446,7 +401,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "100 anuales"
  },
  {
@@ -455,7 +410,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Según prescripción médica especializada"
  },
  {
@@ -464,7 +419,7 @@
   "norma": "Ley N° 26.914",
   "norma_1": "Decreto 1286\/2014",
   "norma_2": "Resolución 423\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "1 cada 2 años"
  },
  {
@@ -491,7 +446,7 @@
   "norma": "Ley N° 24.901 ",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -500,7 +455,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -509,7 +464,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -518,7 +473,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -527,7 +482,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -536,7 +491,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -545,7 +500,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "a) Módulo de tratamiento integral intensivo: comprende semana completa (5 días).\nb) Módulo por tratamiento integral simple: incluye periodicidades menores a 5 días semanales.\nComprende los siguientes tipos de atención:\nLa atención ambulatoria debe estar indicada y supervisada por un profesional médico, preferentemente especialista según corresponda.\nCuando el beneficiario reciba más de un tipo de prestación, las mismas deberán ser coordinadas entre los profesionales intervinientes."
  },
  {
@@ -554,7 +509,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Concurrencia diaria en jornada simple o doble, de acuerdo con la modalidad del servicio acreditado o la región donde se desarrolla.\nEl Módulo incluye honorarios profesionales (Consultas e interconsultas), gastos de atención, medicación específica, terapias de la especialidad, y otras prácticas de diagnóstico o tratamientos necesarias para su rehabilitación.\nEl hospital de día de media jornada incluye colación y el almuerzo en el de jornada doble."
  },
  {
@@ -563,7 +518,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños, jóvenes y\/o adultos con discapacidades severas y\/o profundas, imposibilitados de acceder a la escolaridad, capacitación y\/o ubicación laboral protegida. Concurrencia diaria en jornada simple o doble, de acuerdo con la modalidad del servicio acreditado o la región donde se desarrolla."
  },
  {
@@ -572,7 +527,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Discapacitados mentales (psicóticos, autistas), lesionados neurológicos, paralíticos cerebrales, multidiscapacitados, etc., entre los 4 y los 24 años de edad. Jornada simple o doble, diaria de acuerdo a la modalidad del servicio acreditado, o la región donde se desarrolle. Cuando el CET funcione como apoyo específico para los procesos de escolarización, la atención se brindará en un solo turno y en contraturno concurrirá al servicio educativo que corresponda o en sesiones semanales."
  },
  {
@@ -581,7 +536,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños discapacitados de 0 a 4 años de edad cronológica, y eventualmente hasta los 6 años. Atención ambulatoria individual, de acuerdo con el tipo de discapacidad, grado y etapa en que se encuentre, con participación activa del grupo familiar. Comprende hasta tres (3) sesiones semanales."
  },
  {
@@ -590,7 +545,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños discapacitados entre 3 y 6 años de edad cronológica, con posibilidades de ingresar en un proceso escolar sistemático de este nivel. Jornada simple o doble, diaria de acuerdo a la modalidad del servicio acreditado, o a la región donde se desarrolle."
  },
  {
@@ -599,7 +554,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños discapacitados entre 6 y 14 años de edad cronológica aproximadamente, con discapacidad leve, moderada o severa, discapacitados sensoriales, discapacitados motores con o sin compromiso intelectual. Jornada simple o doble, diaria de acuerdo a la modalidad del servicio acreditado, o a la región donde se desarrolle."
  },
  {
@@ -608,7 +563,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños y jóvenes con necesidades educativas especiales derivadas de alguna problemática de discapacidad (sensorial, motriz, deficiencia mental u otras), que puedan acceder a la escolaridad en servicios de educación común y en los diferentes niveles – Educación inicial, EGB, Polimodal. Entre los 3 y los 18 años de edad."
  },
  {
@@ -617,7 +572,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Adolescentes, jóvenes y adultos discapacitados entre los 14 y los 24 años de edad cronológica aproximadamente. Las personas con discapacidad adquirida podrán beneficiarse de la Formación Laboral y\/o rehabilitación profesional por un período no mayor de 2 años."
  },
  {
@@ -626,7 +581,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Adolescentes, jóvenes y adultos discapacitados entre los 14 y los 24 años de edad cronológica aproximadamente. Las personas con discapacidad adquirida podrán beneficiarse de la Formación Laboral y\/o rehabilitación profesional por un período no mayor de 2 años."
  },
  {
@@ -635,7 +590,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para las patologías previstas en la Clasificación Internacional de Deficiencias, Discapacidades y Minusvalías - OMS, con la determinación establecida por la Junta Evaluadora de organismo competente incorporado al Sistema Unico de Prestaciones Básicas."
  },
  {
@@ -644,7 +599,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para las patologías previstas en la Clasificación Internacional de Deficiencias, Discapacidades y Minusvalías - OMS, con la determinación establecida por la Junta Evaluadora de organismo competente incorporado al Sistema Unico de Prestaciones Básicas."
  },
  {
@@ -653,7 +608,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para las patologías previstas en la Clasificación Internacional de Deficiencias, Discapacidades y Minusvalías - OMS, con la determinación establecida por la Junta Evaluadora de organismo competente incorporado al Sistema Unico de Prestaciones Básicas."
  },
  {
@@ -662,7 +617,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para las patologías previstas en la Clasificación Internacional de Deficiencias, Discapacidades y Minusvalías - OMS, con la determinación establecida por la Junta Evaluadora de organismo competente incorporado al Sistema Unico de Prestaciones Básicas."
  },
  {
@@ -671,7 +626,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Dirigido preferentemente a las personas cuya discapacidad y nivel de autovalimiento e independencia sea dificultosa a través de los otros sistemas descriptos, y requieran un mayor grado de asistencia y protección. Modalidad de cobertura: Módulo de alojamiento permanente o Módulo de alojamiento de lunes a viernes."
  },
  {
@@ -680,7 +635,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Residencias (casas o departamentos, preferentemente en área urbana, con capacidad entre 8 y 10 personas). Modalidad de cobertura: Módulo de alojamiento permanente. Módulo de alojamiento de lunes a viernes."
  },
  {
@@ -689,7 +644,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Niños y adolescentes discapacitados entre 3 y 21 años de edad, de ambos sexos y con un tipo y grado de discapacidad que les permita convivir en este sistema. Modalidad de cobertura: Módulo de alojamiento permanente. Módulo de alojamiento de lunes a viernes."
  },
  {
@@ -698,7 +653,7 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "El otorgamiento de estas prestaciones deberá estar debidamente justificado en el plan de tratamiento respectivo, y para ser consideradas como tales tendrán que ser suministradas fuera del horario de atención de la prestación principal.\nEl máximo de horas de prestaciones de apoyo será de hasta seis (6) horas semanales; cuando el caso requiera mayor tiempo de atención deberá orientarse al beneficiario a alguna de las otras prestaciones previstas."
  },
  {
@@ -707,26 +662,8 @@
   "norma": "Ley N° 24.901",
   "norma_1": "Decreto 1193\/98",
   "norma_2": "Resolución 428\/1999",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Traslado de las personas con discapacidad desde su residencia hasta el lugar de su atención y viceversa. Este beneficio le será otorgado siempre y cuando el beneficiario se vea imposibilitado por diversas circunstancias de usufructuar el traslado gratuito en transportes públicos de acuerdo a lo previsto en la Ley 24.314, Art. 22. inc. a). Tipos de transportes: Automóvil, Microbús, etc."
- },
- {
-  "nombre": "No",
-  "categoria": "Drogadicción",
-  "norma": "Ley N° 26586",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Ejercicio de la musicoterapia",
-  "norma": "Ley N° 27153",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
  },
  {
   "nombre": "Todas las prestaciones alcanzadas por el “Modelo de Atención y Cuidado Integral”",
@@ -851,7 +788,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Las prestaciones que sean indicadas por los médicos profesionales y que necesiten las personas con fibrosis quística de páncreas o mucoviscidosis; [...] en un plazo máximo de treinta (30) días corridos, para aquellos casos que no sean urgentes y para estos últimos de forma inmediata."
  },
  {
@@ -860,7 +797,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -869,7 +806,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -878,7 +815,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -887,7 +824,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -896,7 +833,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -905,7 +842,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -914,7 +851,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -923,7 +860,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -932,7 +869,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -941,7 +878,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -950,7 +887,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -959,7 +896,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -968,7 +905,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -977,7 +914,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -986,7 +923,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -995,7 +932,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1004,7 +941,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1013,7 +950,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1022,7 +959,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1031,7 +968,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1040,7 +977,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1049,7 +986,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1058,7 +995,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1067,7 +1004,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1076,7 +1013,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1085,7 +1022,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1094,7 +1031,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1103,7 +1040,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1112,7 +1049,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1121,7 +1058,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1130,7 +1067,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1139,7 +1076,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1148,7 +1085,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1157,7 +1094,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1166,7 +1103,7 @@
   "norma": "Ley N° 27.552",
   "norma_1": "Decreto 884\/2020",
   "norma_2": "Disposición 2\/2022",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1211,7 +1148,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1220,7 +1157,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1229,7 +1166,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1238,7 +1175,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1247,7 +1184,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2016",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1256,7 +1193,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1265,7 +1202,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1274,7 +1211,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "Resolución 3159\/2019",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1292,7 +1229,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1301,7 +1238,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1310,7 +1247,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1319,7 +1256,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1328,7 +1265,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1337,7 +1274,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1346,7 +1283,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1355,7 +1292,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1364,7 +1301,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1373,7 +1310,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1382,7 +1319,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1391,7 +1328,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1400,7 +1337,7 @@
   "norma": "Ley N° 26.743",
   "norma_1": "Decreto 903\/2016",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1409,7 +1346,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "Directrices OMS",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "por vía oral cada día durante tres días, seguido de misoprostol 800 μg por vía sublingual el cuarto día"
  },
  {
@@ -1418,7 +1355,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "Directrices OMS",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Administrada por vía oral, seguida de 1 a 2 días después por 800 μg de misoprostol administrado por vía vaginal, sublingual o bucal."
  },
  {
@@ -1427,7 +1364,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Embarazos de menos de 12 semanas"
  },
  {
@@ -1436,7 +1373,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Embarazos de más de 12 semanas"
  },
  {
@@ -1454,7 +1391,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1481,7 +1418,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1490,7 +1427,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1499,7 +1436,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1508,7 +1445,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1517,7 +1454,7 @@
   "norma": "Ley N° 27.610",
   "norma_1": "Decreto 516\/2021",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1526,7 +1463,7 @@
   "norma": "Ley N° 27.305",
   "norma_1": "-",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para consumo de quienes padecen alergia a la proteína de la leche vacuna (APLV), así como también de aquellos que padecen desórdenes, enfermedades o trastornos gastrointestinales y enfermedades metabólicas"
  },
  {
@@ -1544,15 +1481,6 @@
   "norma": "Ley N° 26.130",
   "norma_1": "Decreto 1110\/2006",
   "norma_2": "Resolución 755\/2006",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Medicamentos Genéricos",
-  "norma": "Ley N° 25.649",
-  "norma_1": "-",
-  "norma_2": "-",
   "cobertura": "-",
   "recomendaciones": "No tiene"
  },
@@ -1580,7 +1508,7 @@
   "norma": "Ley N° 26.396",
   "norma_1": "-",
   "norma_2": "Resolución 1420\/2022",
-  "cobertura": 70,
+  "cobertura": 0.7,
   "recomendaciones": "No tiene"
  },
  {
@@ -1697,7 +1625,7 @@
   "norma": "Ley N° 27.071",
   "norma_1": "Decreto 828\/2016",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1706,16 +1634,7 @@
   "norma": "Ley N° 27.071",
   "norma_1": "Decreto 828\/2016",
   "norma_2": "-",
-  "cobertura": 100,
-  "recomendaciones": "No tiene"
- },
- {
-  "nombre": "No",
-  "categoria": "Pacto Federal Legislativo de Salud",
-  "norma": "Ley N° 27054",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -1872,15 +1791,6 @@
   "recomendaciones": "No tiene"
  },
  {
-  "nombre": "No",
-  "categoria": "Recetas Electrónicas",
-  "norma": "Ley N° 27.553",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "No tiene"
- },
- {
   "nombre": "Procedimientos y las técnicas de diagnóstico, Medicamentos y terapias de apoyo para la reproducción médicamente asistida",
   "categoria": "Rep. Asistida",
   "norma": "Ley N° 26.862",
@@ -1895,7 +1805,7 @@
   "norma": "Ley N° 26.862",
   "norma_1": "Decreto 956\/2013",
   "norma_2": "Resolución 1045\/2018",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -2026,7 +1936,7 @@
  },
  {
   "nombre": "Métodos y elementos anticonceptivos que deberán ser de carácter reversible, no abortivos y transitorios [...] y aquéllos aprobados por la ANMAT.",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2004",
   "norma_2": "-",
@@ -2035,7 +1945,7 @@
  },
  {
   "nombre": "G03AC03 -LEVONORGESTREL",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Res 232\/07",
@@ -2044,7 +1954,7 @@
  },
  {
   "nombre": "G03AC03 -LEVONORGESTREL",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 232\/07",
@@ -2053,7 +1963,7 @@
  },
  {
   "nombre": "Implante subdermico",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2062,7 +1972,7 @@
  },
  {
   "nombre": "Sistema Intrauterino de Liberación de Levonorgestrel (SIU\/DIU-LNG)",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2071,7 +1981,7 @@
  },
  {
   "nombre": "Sistema Intrauterino con cobre (DIU-Cu)",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2080,7 +1990,7 @@
  },
  {
   "nombre": "colocación y extracción del Implante Subérmico",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2089,7 +1999,7 @@
  },
  {
   "nombre": "colocación y extracción del Sistema Intrauterino de Liberación de Levonorgestrel (SIU\/DIU-LNG)",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2098,7 +2008,7 @@
  },
  {
   "nombre": "colocación y extracción del Dispositivo Intrauterino (DIU-Cu)",
-  "categoria": "Salud sexual y reprod.",
+  "categoria": "Salud sexual y reproductiva",
   "norma": "Ley N° 25.673",
   "norma_1": "Decreto 1282\/2003",
   "norma_2": "Resolución 2922\/19",
@@ -2120,7 +2030,7 @@
   "norma": "Ley N° 26.928",
   "norma_1": "Decreto 2266\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -2129,7 +2039,7 @@
   "norma": "Ley N° 26.928",
   "norma_1": "Decreto 2266\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -2138,7 +2048,7 @@
   "norma": "Ley N° 26.928",
   "norma_1": "Decreto 2266\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -2147,7 +2057,7 @@
   "norma": "Ley N° 26.928",
   "norma_1": "Decreto 2266\/2015",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "No tiene"
  },
  {
@@ -2165,7 +2075,7 @@
   "norma": "Ley N° 26.796",
   "norma_1": "-",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Recién nacidos"
  },
  {
@@ -2183,7 +2093,7 @@
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para personas infectadas por algunos de los retrovirus humanos y los que padecen el síndrome de inmuno deficiencia adquirida (SIDA) y\/o las enfermedades intercurrentes"
  },
  {
@@ -2228,7 +2138,7 @@
   "norma": "Ley N° 24.455",
   "norma_1": "-",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "Para personas infectadas por algunos de los retrovirus humanos y los que padecen el síndrome de inmuno deficiencia adquirida (SIDA) y\/o las enfermedades intercurrentes"
  },
  {
@@ -2282,7 +2192,7 @@
   "norma": "Ley N° 25.543",
   "norma_1": "-",
   "norma_2": "-",
-  "cobertura": 100,
+  "cobertura": 1,
   "recomendaciones": "A toda mujer embarazada como parte del cuidado prenatal normal"
  },
  {
