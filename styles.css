@@ -1,8 +1,6 @@
 header {
-    background-color: #50535C; /* #37BBED */
+    background-color: #50535C;
     width: 100%;
-    /* border-bottom-left-radius: 15px;
-    /* border-bottom-right-radius: 15px; */
 }
 
 body {
@@ -100,6 +98,7 @@ select#categoria {
     padding: 6px;
     margin: 10px 25px 20px 45px;
 }
+
 .parrafo {
     font-size: 16px;
     font-family: "Encode Sans", sans-serif;

@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    fetch('https://deissms.github.io/pmo_m/consolidado.json')
+    fetch('https://deissms.github.io/leyes_especiales_m/consolidado.json')
     .then(response => response.json())
     .then(data => {
         let categories = [...new Set(data.map(item => item.categoria))];
@@ -44,8 +44,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     }
                     return '<p class="nombre-resultado">'+ obj.nombre +'</p>' +
                            '<p class="resultado">CategorÍa: ' + obj.categoria + '</p>' +
-                           '<p class="resultado">SubcategorÍa: ' + obj.subcategoria + '</p>' +
-                           '<p class="resultado">Normativa que la incluye: ' + obj.norma + '</p>' +
+                           '<p class="resultado">Normativa que la incluye: ' + obj.norma + ', ' + obj.norma_1 + ', ' + obj.norma_2 + '</p>' +
                            '<p class="resultado"><b>Nivel de cobertura: ' + coberturaText + '</b></p>' +
                            '<p class="resultado">Recomendaciones de uso: ' + obj.recomendaciones + '</p>';
                 });
@@ -56,7 +55,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                   <div class="acciones">
                     <button id="descargar-resultados" class="boton-accion">Descargar Resultados</button>
                     <button id="descargar-consolidado" class="boton-accion">Descargar Canasta Prestacional</button>
-                    <a href="https://www.argentina.gob.ar/normativa/nacional/resolución-201-2002-73649/actualizacion" target="_blank" class="boton-accion">Ver legislación</a>
+                    <button id="ver-legislacion" class="boton-accion">Ver legislación</button>
                   </div>
                   <h2 class="titulo-resultado">${tituloResultado}</h2>
                   ` + coberturas.join('<hr>');
@@ -82,13 +81,14 @@ document.addEventListener('DOMContentLoaded', (event) => {
                       return [
                           obj.nombre,
                           obj.categoria,
-                          obj.subcategoria,
                           obj.norma,
+                          obj.norma_1,
+                          obj.norma_2,
                           isNumeric(obj.cobertura) ? (obj.cobertura * 100) + '%' : obj.cobertura,
                           obj.recomendaciones
                       ];
                   });
-                  ws_data.unshift(["Nombre", "Categoría", "Subcategoría", "Normativa", "Nivel de cobertura", "Recomendaciones"]); // Añadir encabezados de columna
+                  ws_data.unshift(["Nombre", "Categoría", "Normativa", "Normativa 1", "Normativa 2", "Nivel de cobertura", "Recomendaciones"]); // Añadir encabezados de columna
 
                   var ws = XLSX.utils.aoa_to_sheet(ws_data);
 
@@ -103,6 +103,45 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 alert('No se encontró el valor buscado');
             }
         });
+
+        // Funcionalidad de la ventana modal para Ver Legislación
+        document.getElementById('ver-legislacion').addEventListener('click', function() {
+            var modal = document.getElementById('modal-legislacion');
+            modal.style.display = "block";
+            
+            var closeButton = document.getElementById('close-modal');
+            closeButton.onclick = function() {
+                modal.style.display = "none";
+            }
+            
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            }
+
+            var content = document.getElementById('legislacion-content');
+            content.innerHTML = '';
+
+            for (var law in laws) {
+                var lawElement = document.createElement('ul');
+                var lawItem = document.createElement('li');
+                lawItem.textContent = law;
+                lawElement.appendChild(lawItem);
+                
+                laws[law].forEach(function(item) {
+                    var itemElement = document.createElement('li');
+                    var linkElement = document.createElement('a');
+                    linkElement.href = item.url;
+                    linkElement.textContent = item.text;
+                    itemElement.appendChild(linkElement);
+                    lawElement.appendChild(itemElement);
+                });
+
+                content.appendChild(lawElement);
+            }
+        });
+
     })
     .catch(error => console.error('Error:', error));
 });
