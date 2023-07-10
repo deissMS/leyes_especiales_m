@@ -99,141 +99,6 @@
   "recomendaciones": "Dosis neonatal. A partir de los 11 años iniciar o completar esquema"
  },
  {
-  "nombre": "Vacuna Neumococo Conjudada",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis + refuerzo (2, 4 y 12 meses). Esquema secuencial en adultos"
- },
- {
-  "nombre": "Vacuna Pentavalente",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 51\/2014",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 3 dosis + refuerzo (2, 4, 6 meses y 15-18 meses)"
- },
- {
-  "nombre": "IPV",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 1028\/2014",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 3 dosis + refuerzo (2, 4, 6 meses y 5 años)"
- },
- {
-  "nombre": "Rotavirus",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 1027\/2014",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis (2 y 4 meses)"
- },
- {
-  "nombre": "Meningococo",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 10\/2015",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis + refuerzo (3, 5 y 15 meses). Única dosis para 11 años"
- },
- {
-  "nombre": "Antigripal",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Dosis anual en grupos de riesgo (6 a 24 meses, 5 a 15 años, Embarazadas, Puerperio y Personal de Salud)"
- },
- {
-  "nombre": "Hepatitis A",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 653\/2005",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "12 meses"
- },
- {
-  "nombre": "Triple Viral",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 174\/2003",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis (12 meses y 5 años). A partir de 11 años, puerperio y personal de salud"
- },
- {
-  "nombre": "Varicela",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 3613\/2021",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis (15 meses y 5 años)"
- },
- {
-  "nombre": "Triple Bacteriana Celular",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 107\/1997",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Refuerzo a los 5 años"
- },
- {
-  "nombre": "Triple Bacteriana Acelular",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 2172\/2013",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Refuerzo a los 11 años, personal de salud y embarazadas"
- },
- {
-  "nombre": "VPH",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 563\/2011",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de 2 dosis (11 años)"
- },
- {
-  "nombre": "Doble Vacteriana",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "-",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Adultos - Refuerzo cada 10 años"
- },
- {
-  "nombre": "Fiebre amarilla",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 53\/2014",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Solo en zona de riesgo. Esquema de 1 dosis + refuerzo (18 meses y 11 años)"
- },
- {
-  "nombre": "Fiebre Hemorrágica Argentina",
-  "categoria": "Control de enfermedades prevenibles por vacunación.",
-  "norma": "Ley N° 27.491",
-  "norma_1": "Resolución 48\/2007",
-  "norma_2": "-",
-  "cobertura": "-",
-  "recomendaciones": "Esquema de una dosis a partir de los 15 años. Sólo en zona de riesgo"
- },
- {
   "nombre": "Todos aquellos Medicamentos y reactivos de diagnósticos para autocontrol autorizados",
   "categoria": "Diabetes",
   "norma": "Ley N° 26.914",
@@ -1890,7 +1755,7 @@
   "recomendaciones": "Hasta 3 tratamientos con técnicas de alta complejidad anuales, con un intervalo de 3 meses"
  },
  {
-  "nombre": "\"adecuación de la cobertura en salud mental de las obras sociales a los principios establecidos en la presente ley\"",
+  "nombre": "Adecuación de la cobertura en salud mental de las obras sociales a los principios establecidos en la presente ley",
   "categoria": "Salud Mental",
   "norma": "Ley N° 26.657",
   "norma_1": "Decreto 603\/2013",
@@ -2061,7 +1926,7 @@
   "recomendaciones": "No tiene"
  },
  {
-  "nombre": "a) Trasplante de corazón, vasos, estructuras valvulares, y otros tejidos cardiacos.\n\nb) Trasplante de pulmón.\n\nc) Trasplante de hígado.\n\nd) Trasplante de páncreas.\n\ne) Trasplante de intestino.\n\nf) Trasplante de riñón y uréter.\n\ng) Trasplante de tejidos del sistema osteoarticular y musculoesquelético.\n\nh) Trasplante de piel.\n\ni) Trasplante de córneas y esclera.\n\nj) Trasplante de tejidos del sistema nervioso periférico.\n\nk) Trasplante de membrana amniótica.\n\nl) Trasplante de células progenitoras hematopoyéticas",
+  "nombre": "Trasplante de corazón, vasos, estructuras valvulares, y otros tejidos cardiacos.\n\nb) Trasplante de pulmón.\n\nc) Trasplante de hígado.\n\nd) Trasplante de páncreas.\n\ne) Trasplante de intestino.\n\nf) Trasplante de riñón y uréter.\n\ng) Trasplante de tejidos del sistema osteoarticular y musculoesquelético.\n\nh) Trasplante de piel.\n\ni) Trasplante de córneas y esclera.\n\nj) Trasplante de tejidos del sistema nervioso periférico.\n\nk) Trasplante de membrana amniótica.\n\nl) Trasplante de células progenitoras hematopoyéticas",
   "categoria": "Transplantes",
   "norma": "Ley N° 27.447",
   "norma_1": "Decreto 16\/2019",
