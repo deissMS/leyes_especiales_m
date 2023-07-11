@@ -105,6 +105,14 @@ select#categoria {
     margin: 25px 25px 20px 45px;
 }
 
+#titulo-leyes {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    padding: 6px;
+    margin: 25px 25px 10px 100px;
+}
+
 .parrafo {
     font-size: 16px;
     font-family: "Encode Sans", sans-serif;
@@ -112,6 +120,19 @@ select#categoria {
     padding: 6;
     margin: 10px 25px 35px 0;
 }
+
+#leyes {
+    font-size: 16px;
+    font-family: "Encode Sans", sans-serif;
+    line-height: 1.8;
+    column-count: 2;
+    column-gap:0px;
+
+}
+
+#leyes details {
+    break-inside: avoid-column;
+  }
 
 #texto-arriba {
     display: flex;
@@ -181,3 +202,33 @@ hr {
 .acciones a.btn {
     display: inline-block;
 }
+
+details {
+    margin: 10px 25px 10px 110px;
+  }
+  
+  details > summary {
+    list-style: none;
+  }
+  
+  details > summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  details > summary::before {
+    content: '▶';
+    color: #50535C;
+    display: inline-block;
+    margin-right: 5px;
+    transform: rotate(90deg);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  details[open] > summary::before {
+    transform: rotate(-90deg);
+  }
+  
+  ul {
+    list-style-type: none;
+    margin-top: 5px;
+  }

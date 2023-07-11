@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 });
 
                 document.getElementById('ver-legislacion').addEventListener('click', function() {
-                  window.location.href = 'legisiacion.html';
+                  window.open('legislacion.html', '_blank');
                 });
 
                 document.getElementById('descargar-resultados').addEventListener('click', function() {
