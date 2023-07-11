@@ -103,45 +103,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 alert('No se encontró el valor buscado');
             }
         });
-
-        // Funcionalidad de la ventana modal para Ver Legislación
-        document.getElementById('ver-legislacion').addEventListener('click', function() {
-            var modal = document.getElementById('modal-legislacion');
-            modal.style.display = "block";
-            
-            var closeButton = document.getElementById('close-modal');
-            closeButton.onclick = function() {
-                modal.style.display = "none";
-            }
-            
-            window.onclick = function(event) {
-                if (event.target == modal) {
-                    modal.style.display = "none";
-                }
-            }
-
-            var content = document.getElementById('legislacion-content');
-            content.innerHTML = '';
-
-            for (var law in laws) {
-                var lawElement = document.createElement('ul');
-                var lawItem = document.createElement('li');
-                lawItem.textContent = law;
-                lawElement.appendChild(lawItem);
-                
-                laws[law].forEach(function(item) {
-                    var itemElement = document.createElement('li');
-                    var linkElement = document.createElement('a');
-                    linkElement.href = item.url;
-                    linkElement.textContent = item.text;
-                    itemElement.appendChild(linkElement);
-                    lawElement.appendChild(itemElement);
-                });
-
-                content.appendChild(lawElement);
-            }
-        });
-
+        
     })
     .catch(error => console.error('Error:', error));
 });
