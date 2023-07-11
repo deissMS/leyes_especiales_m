@@ -61,7 +61,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
                   ` + coberturas.join('<hr>');
 
                 document.getElementById('descargar-consolidado').addEventListener('click', function() {
-                  window.location.href = 'data/consolidado.xlsx'; // Cambiar la ruta del archivo si es necesario
+                  window.location.href = 'data/consolidado.xlsx'; 
+                });
+
+                document.getElementById('ver-legislacion').addEventListener('click', function() {
+                  window.location.href = 'legisiacion.html';
                 });
 
                 document.getElementById('descargar-resultados').addEventListener('click', function() {
