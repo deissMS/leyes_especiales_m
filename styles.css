@@ -8,6 +8,11 @@ body {
     padding: 0;
 }
 
+h1 {
+    margin-left: 20px;
+    font-family: "Encode Sans", sans-serif;
+}
+
 #logo {
     margin-left: 20px;
     padding: 12px;
