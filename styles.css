@@ -191,7 +191,8 @@ hr {
 .boton-accion {
     font-size: 14px;
     font-family: "Encode Sans", sans-serif;
-    color: #50535C;
+    color: #E7E7E7;
+    background-color: #50535C;
     padding: 10px;
     border: 1px solid #f0f0f0;
     border-radius: 5px;
