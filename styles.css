@@ -73,6 +73,15 @@ label[for="categoria"], label[for="busqueda"], .texto-o {
 #buscador button {
     padding: 10px 20px;
     width: 50%;
+    background-color: #E7E7E7;
+    color: #50535C;
+}
+
+#buscador button:hover {
+    padding: 10px 20px;
+    width: 50%;
+    background-color: #50535C;
+    color: #E7E7E7;
 }
 
 #buscador-seccion {
@@ -195,9 +204,11 @@ hr {
 }
 
 .boton-accion:hover {
-    background-color: #f0f0f0;
+    color: #50535C;
+    background-color: #E7E7E7;
     cursor: pointer;
 }
+
 
 .acciones a.btn {
     display: inline-block;
