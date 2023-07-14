@@ -1,0 +1,63 @@
+[
+ {
+  "id_serie": 1,
+  "nombre": "1_oede_trabajo_remuneracion",
+  "tags": "mercado de trabajo, salarios, remuneraciones",
+  "organismo": "Ministerio de Trabajo, bla bla bla de la nacion",
+  "fuente": "OEDE - Estadísticas e indicadores nacionales",
+  "link_de_la_fuente": "https:\/\/www.trabajo.gob.ar\/estadisticas\/oede\/estadisticasnacionales.asp",
+  "link_de_la_serie": "https:\/\/www.trabajo.gob.ar\/downloads\/estadisticas\/oede\/nacional_serie_remuneraciones_mensual.xlsx",
+  "descripcion_serie": "Remuneración por todo concepto, remuneración normal y permanente, a valores corrientes.",
+  "periodicidad": "Mensual",
+  "desestacionalizada": "No",
+  "unidad_de_medida": "Pesos corrientes",
+  "tipo_de_resumen": "Promedio",
+  "fecha_ult_dato": "Dec-22",
+  "Column14": ""
+ },
+ {
+  "id_serie": 2,
+  "nombre": "2_oede_trabajo_remuneracion",
+  "tags": "mercado de trabajo, salarios, remuneraciones",
+  "organismo": "Ministerio de Trabajo, bla bla bla de la nacion",
+  "fuente": "OEDE - Estadísticas e indicadores nacionales",
+  "link_de_la_fuente": "https:\/\/www.trabajo.gob.ar\/estadisticas\/oede\/estadisticasnacionales.asp",
+  "link_de_la_serie": "https:\/\/www.trabajo.gob.ar\/downloads\/estadisticas\/oede\/nacional_serie_remuneraciones_mensual.xlsx",
+  "descripcion_serie": "Remuneración por todo concepto,  excluyendo aguinaldo y otros conceptos estaciónales, a valores corrientes.",
+  "periodicidad": "Mensual",
+  "desestacionalizada": "Si",
+  "unidad_de_medida": "Pesos corrientes",
+  "tipo_de_resumen": "Promedio",
+  "fecha_ult_dato": "Dec-22"
+ },
+ {
+  "id_serie": 3,
+  "nombre": "3_anses_trabajo_registrado",
+  "tags": "mercado de trabajo, registrado, anses, empleo",
+  "organismo": "ANSES",
+  "fuente": "SIPA",
+  "link_de_la_fuente": "https:\/\/www.trabajo.gob.ar\/estadisticas\/index.asp",
+  "link_de_la_serie": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/trabajoregistrado_2302_estadisticas.xlsx",
+  "descripcion_serie": "Trabajo registrados, por modalidad ocupacional (asalariados públicos, asalariados privados, casas particulares, autónomos, monotributo y monotributo social) en base a registros administrativos de la seguridad social. Los datos se encuentran de ene-12 en adelante",
+  "periodicidad": "Mensual",
+  "desestacionalizada": "No",
+  "unidad_de_medida": "Personas",
+  "tipo_de_resumen": "Suma",
+  "fecha_ult_dato": "Feb-23"
+ },
+ {
+  "id_serie": 4,
+  "nombre": "4_anses_trabajo_registrado",
+  "tags": "mercado de trabajo, registrado, anses, empleo",
+  "organismo": "ANSES",
+  "fuente": "SIPA",
+  "link_de_la_fuente": "https:\/\/www.trabajo.gob.ar\/estadisticas\/index.asp",
+  "link_de_la_serie": "https:\/\/www.argentina.gob.ar\/sites\/default\/files\/trabajoregistrado_2302_estadisticas.xlsx",
+  "descripcion_serie": "Trabajo registrados, por modalidad ocupacional (asalariados públicos, asalariados privados, casas particulares, autónomos, monotributo y monotributo social) en base a registros administrativos de la seguridad social. Los datos se encuentran de ene-12 en adelante",
+  "periodicidad": "Mensual",
+  "desestacionalizada": "Si",
+  "unidad_de_medida": "Personas",
+  "tipo_de_resumen": "Suma",
+  "fecha_ult_dato": "Feb-23"
+ }
+]
